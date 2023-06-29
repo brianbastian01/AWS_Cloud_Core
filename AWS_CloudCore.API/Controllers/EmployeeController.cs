@@ -7,5 +7,10 @@ namespace AWS_CloudCore.API.Controllers
     [ApiController]
     public class EmployeeController : ControllerBase
     {
+        [HttpGet("GetEmployee")]
+        public async Task<IActionResult> GetEmployee()
+        {
+            return Ok();
+        }
     }
 }
