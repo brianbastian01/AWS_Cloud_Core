@@ -475,3 +475,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/AWS_CloudCore.API/AWS_CloudCore.API.csproj.user
