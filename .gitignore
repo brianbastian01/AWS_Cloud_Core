@@ -476,3 +476,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 /AWS_CloudCore.API/AWS_CloudCore.API.csproj.user
+/AWS_CloudCore.API/.vs/AWS_CloudCore.API/DesignTimeBuild/.dtbcache.v2
+/AWS_CloudCore.API/.vs/AWS_CloudCore.API/v17/.suo
+/AWS_CloudCore.API/.vs/AWS_CloudCore.API/FileContentIndex/2e48aeef-4bf4-4bfc-89ce-0aa11b2a34a4.vsidx
+/AWS_CloudCore.API/.vs/AWS_CloudCore.API/config/applicationhost.config
