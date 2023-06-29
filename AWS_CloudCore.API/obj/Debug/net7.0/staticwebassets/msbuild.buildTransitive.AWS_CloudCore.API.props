@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\AWS_CloudCore.API.props" />
-</Project>
