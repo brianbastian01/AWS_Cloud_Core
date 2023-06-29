@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9epiT96d4radxMzQdsH/qhXoDrStYoCxN5k6I158+nM=",
+  "Source": "AWS_CloudCore.API",
+  "BasePath": "_content/AWS_CloudCore.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
