@@ -1,6 +1,6 @@
 <h1>AWS Core</h1>
 <p>AWS core is a sample application that will consist of an API that is deployed in an ECS fargate cluster and will communicate with other aws services. This is a sample project just to get familiar with the different AWS services. The below image describes the workflow</p>
-<img src='./aws core.jpg'>
+<img src='./awscore.jpg'>
 
 <h2>Components and desired features</h2>
 <ul>
