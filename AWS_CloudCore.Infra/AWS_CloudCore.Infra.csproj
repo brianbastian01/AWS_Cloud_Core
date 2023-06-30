@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AWS_CloudCore.Core\AWS_CloudCore.Core.csproj" />
+  </ItemGroup>
+
 </Project>

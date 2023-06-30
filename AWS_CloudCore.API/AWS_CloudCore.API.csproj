@@ -11,5 +11,11 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.5" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AWS_CloudCore.Core\AWS_CloudCore.Core.csproj" />
+    <ProjectReference Include="..\AWS_CloudCore.Infra\AWS_CloudCore.Infra.csproj" />
+    <ProjectReference Include="..\AWS_CloudCore.Shared\AWS_CloudCore.Shared.csproj" />
+  </ItemGroup>
   
 </Project>
